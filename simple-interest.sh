@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   yesTennis
+   #yesTennis
 
    # Input:
    # p, principal amount
